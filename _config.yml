@@ -3,10 +3,20 @@ author: GitHub User
 email: 18613979073@163.com
 description: > # this means to ignore newlines until "baseurl:"
   我太快乐了
-url: "https://wutongshu.github.io"
+# url: "https://wutongshu.github.io"
 # social links
 # twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+
+# SNS settings
+RSS: false
+# weibo_username:    
+# #zhihu_username:   
+# github_username:    
+# #twitter_username:  
+# facebook_username:  
+# linkedin_username:  
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: minima
